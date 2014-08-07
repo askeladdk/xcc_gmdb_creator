@@ -1,0 +1,3 @@
+rulesmo.ini
+artmo.ini
+aimo.ini
