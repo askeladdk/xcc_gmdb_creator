@@ -6,7 +6,7 @@ This script allows you to add new filenames to the XCC global mix database.dat b
 Usage
 =====
 
-1) Add the filenames you want to the appropriate "extra filenames" text file, one filename per line (case is important). You can (optionally) add a file description by seperating the filename and description with a tab on the same line: filename <TAB> description.
+1) Add the filenames you want to the appropriate "extra filenames" text file, one filename per line (case is important). You can (optionally) add a file description by seperating the filename and description with a tab on the same line: filename TAB description. See ra2 extra filenames.txt for an example.
 
 2) Execute xcc_gmdb_creator.py with Python and it will create a new global mix database.dat in the current directory.
 
