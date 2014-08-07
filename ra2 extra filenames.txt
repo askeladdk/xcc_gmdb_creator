@@ -1,3 +1,3 @@
-rulesmo.ini
-artmo.ini
-aimo.ini
+rulesmo.ini	MO rules
+artmo.ini	MO art
+aimo.ini	MO AI
